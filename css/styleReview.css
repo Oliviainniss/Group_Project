@@ -1,0 +1,80 @@
+body{
+  background-color: #D4F7E0;
+  text-align: left;
+  font-family: 'Big Shoulders Text', cursive;
+  font-size: 1em;
+  width: 100%;
+  margin:0;
+  padding: 0;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Big Shoulders Text', cursive;
+    font-size: 4em;
+    padding: 20px
+  }
+
+.form-group{
+    align-content: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.form-row{
+  align-content: center;
+  padding: 0;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.btn-primary{
+  align-content: left;
+  margin: 5px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 150px;
+}
+
+.footer {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: white;
+   color: black;
+   padding-right: 5px;
+   padding-left: 5px;
+   padding-top: 5px;
+   margin: 0;
+}
+
+.FooterContent{
+  text-align: right;
+  font-size: 0.6em;
+}
+
+.FooterContact{
+  text-align: right;
+  font-size: 0.6em;
+  color: black;
+}
+
+.Nav4Footer{
+  text-align: left;
+  font-size: 0.6em;
+  color: black;
+}
+
+.List{
+  list-style: none;
+}
+
+.List a{
+  color: black;
+}
+
+.FooterContentTitle{
+  text-align: center;
+  font-size: 0.8em;
+  margin: auto 0;
+}
